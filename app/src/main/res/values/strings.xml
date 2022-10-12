@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="txt_title">Title</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_sort_by">Sort By</string>
+    <string name="txt_priority_high">Priority High</string>
+    <string name="txt_priority_low">Priority Low</string>
+    <string name="txt_delete_all">Delete All</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_delete">Delete</string>
+
+    <string name="content_fab_add_a_note">FAB Add A Note</string>
+    <string name="content_image_no_data">Image No Data</string>
+    <string name="txt_priority">Priority</string>
+    <string name="txt_date">Date</string>
+    <string name="txt_update">Update</string>
+    <string name="txt_edited_on">Edited on:</string>
+
+    <array name="priorities">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </array>
+</resources>
